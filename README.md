@@ -226,3 +226,14 @@ For issues or questions:
 - Review example usage: `../hybrid_modeling_pipeline/example_usage.py`
 - Check logs in `logs/` directory
 
+## 👤 Author
+
+**Md Karim Uddin, PhD**  
+PhD Veterinary Medicine | MEng Big Data Analytics  
+Postdoctoral Researcher, University of Helsinki
+
+- GitHub: [@mdkarimuddin](https://github.com/mdkarimuddin)
+- LinkedIn: [Md Karim Uddin, PhD](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
+
+
+
