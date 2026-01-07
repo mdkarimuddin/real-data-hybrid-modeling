@@ -2,6 +2,10 @@
 
 This directory contains scripts and workflows for applying the hybrid modeling pipeline to **real bioprocess data**.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![ML](https://img.shields.io/badge/ML-Hybrid%20Modeling-orange.svg)
+
 ## Directory Structure
 
 ```
@@ -234,6 +238,10 @@ Postdoctoral Researcher, University of Helsinki
 
 - GitHub: [@mdkarimuddin](https://github.com/mdkarimuddin)
 - LinkedIn: [Md Karim Uddin, PhD](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
